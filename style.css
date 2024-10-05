@@ -1,0 +1,117 @@
+*{
+    
+   
+    font-family: sans-serif;
+    font-style: italic;
+}
+body{
+    background-color: cadetblue;
+}
+h1{
+    
+    text-decoration:wavy;
+    font-family:Georgia;
+}
+.registration-form{
+    text-align: center;
+    color:white;
+    background-color: rgb(122, 195, 122);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    
+}
+button{
+    background-color:aqua;
+}
+.login{
+margin-left: 20px;
+background-color:cornflowerblue;
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+width: 400px;
+}
+.now{
+    
+    color:blue;
+}
+h2{
+    font-family:'Times New Roman';
+    color:white
+}
+
+.line{
+    
+    color:white;
+    margin-left: 100px;
+    border:10px grove black;
+}
+
+.line2{
+    color:white;
+    margin-left: 100px;
+
+}
+p{
+    margin-left:50px;
+    color:white;
+}
+.country{
+    margin-left: 100px;
+}
+.profile-form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.Address{
+    background-color:rgb(206, 101, 122);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+.qr-code{
+    height:75px;
+    width:75px;
+}
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.help-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.help-btn:hover {
+    background-color: #0056b3;
+}
+.photo{
+    height:100px;
+    width:100px;
+
+}
+
+.health{
+    text-align: center;
+}
+.gear{
+    text-align: center;
+}
+.italic{
+    color:purple;
+    font-family: courier-bold;
+}
